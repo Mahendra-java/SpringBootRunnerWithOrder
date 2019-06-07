@@ -5,7 +5,7 @@ import org.springframework.core.annotation.Order;
 import org.springframework.stereotype.Component;
 
 @Component
-@Order(27)
+@Order(26)
 public class AppRunnerB implements CommandLineRunner{
 
 	@Override
